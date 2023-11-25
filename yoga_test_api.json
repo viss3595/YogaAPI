@@ -1,0 +1,529 @@
+{
+  "userId": "krunal123",
+  "detailList": [
+    {
+      "id": 1,
+      "day_of_week": "Saturday",
+      "capacity": 20,
+      "duration": 30,
+      "price": 20,
+      "type_of_class": "Family Yoga",
+      "desc": "Blindness, one eye, low vision other eye",
+      "classList": [
+        {
+          "id": 1,
+          "date": "31/08/2023",
+          "teacher": "Ewell Powder",
+          "comment": "Other and unspecified disorders of circulatory system"
+        },
+        {
+          "id": 2,
+          "date": "23/03/2023",
+          "teacher": "Adriaens Upson",
+          "comment": "Breakdown (mechanical) of implanted urinary sphincter, subs"
+        },
+        {
+          "id": 3,
+          "date": "09/06/2023",
+          "teacher": "Abdel Shimwell",
+          "comment": "Nondisp fx of r ulna styloid pro, 7thP"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "day_of_week": "Thursday",
+      "capacity": 50,
+      "duration": 60,
+      "price": 13.5,
+      "type_of_class": "Flow Yoga",
+      "desc": "Open bite of left buttock, initial encounter",
+      "classList": [
+        {
+          "id": 1,
+          "date": "09/12/2022",
+          "teacher": "Carmelina Crutcher",
+          "comment": "Parkway as the place of occurrence of the external cause"
+        },
+        {
+          "id": 2,
+          "date": "26/02/2023",
+          "teacher": "Priscilla Fragino",
+          "comment": "Burn unsp deg mult sites of unsp lower limb, ex ank/ft, sqla"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "day_of_week": "Friday",
+      "capacity": 50,
+      "duration": 30,
+      "price": 15,
+      "type_of_class": "Family Yoga",
+      "desc": "Multiple fx of pelvis w/o disrupt of pelvic ring, sequela",
+      "classList": [
+        {
+          "id": 1,
+          "date": "14/04/2023",
+          "teacher": "Davide Cogger",
+          "comment": "Poisn by unsp prim sys and hematolog agent, slf-hrm, init"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "day_of_week": "Monday",
+      "capacity": 10,
+      "duration": 60,
+      "price": 25.5,
+      "type_of_class": "Family Yoga",
+      "desc": "Fx unsp tarsal bone(s) of right foot, init for opn fx",
+      "classList": [
+        {
+          "id": 1,
+          "date": "23/12/2022",
+          "teacher": "Zacharie Oneill",
+          "comment": "Oth diab w moderate nonprlf diabetic rtnop w/o macular edema"
+        },
+        {
+          "id": 2,
+          "date": "13/06/2023",
+          "teacher": "Bruce Workman",
+          "comment": "Disp fx of coronoid pro of unsp ulna, 7thM"
+        },
+        {
+          "id": 3,
+          "date": "24/10/2023",
+          "teacher": "Debbi Firk",
+          "comment": "Unspecified superficial injuries of throat, sequela"
+        },
+        {
+          "id": 4,
+          "date": "09/08/2023",
+          "teacher": "Sidonia Callingham",
+          "comment": "Corrosion of 3rd deg mu sites of unsp wrist and hand"
+        },
+        {
+          "id": 5,
+          "date": "15/04/2023",
+          "teacher": "Addison Bainbridge",
+          "comment": "Fracture of orbital floor, unspecified side, 7thB"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "day_of_week": "Tuesday",
+      "capacity": 10,
+      "duration": 30,
+      "price": 12.5,
+      "type_of_class": "Flow Yoga",
+      "desc": "Benign neoplasm of connective and oth soft tissue of abdomen",
+      "classList": []
+    },
+    {
+      "id": 6,
+      "day_of_week": "Friday",
+      "capacity": 10,
+      "duration": 30,
+      "price": 20,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Corrosion of third degree of lip(s), sequela",
+      "classList": []
+    },
+    {
+      "id": 7,
+      "day_of_week": "Sunday",
+      "capacity": 30,
+      "duration": 30,
+      "price": 15,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Poisoning by digestants, undetermined, subsequent encounter",
+      "classList": [
+        {
+          "id": 1,
+          "date": "17/06/2023",
+          "teacher": "Hammad Jendrach",
+          "comment": "Subluxation of distal radioulnar joint of unsp wrist, subs"
+        },
+        {
+          "id": 2,
+          "date": "09/06/2023",
+          "teacher": "Georgianne Oris",
+          "comment": "Oth superficial bite of left front wall of thorax, init"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "day_of_week": "Wednesday",
+      "capacity": 30,
+      "duration": 30,
+      "price": 12.5,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Opn wnd abdomen, lower back, pelvis and external genitals",
+      "classList": [
+        {
+          "id": 1,
+          "date": "17/04/2023",
+          "teacher": "Tomkin Murdoch",
+          "comment": "Displaced oblique fracture of shaft of unsp tibia, init"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "day_of_week": "Friday",
+      "capacity": 20,
+      "duration": 60,
+      "price": 10.5,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Unspecified dislocation of left ulnohumeral joint",
+      "classList": [
+        {
+          "id": 1,
+          "date": "11/07/2023",
+          "teacher": "Patton Blabey",
+          "comment": "Nondisp transverse fx shaft of unsp fibula, 7thB"
+        },
+        {
+          "id": 2,
+          "date": "17/01/2023",
+          "teacher": "Georgena Barnby",
+          "comment": "Hypertrophy of bone, femur"
+        },
+        {
+          "id": 3,
+          "date": "09/07/2023",
+          "teacher": "Husein Topp",
+          "comment": "Complete traumatic MCP amputation of unsp finger, init"
+        },
+        {
+          "id": 4,
+          "date": "02/12/2022",
+          "teacher": "Vi Bunclark",
+          "comment": "Staphyloma posticum, bilateral"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "day_of_week": "Monday",
+      "capacity": 20,
+      "duration": 60,
+      "price": 10.5,
+      "type_of_class": "Flow Yoga",
+      "desc": "Stenosis of unspecified lacrimal sac",
+      "classList": [
+        {
+          "id": 1,
+          "date": "05/11/2023",
+          "teacher": "Guy McCroft",
+          "comment": "Unspecified injury of ovary, unspecified"
+        },
+        {
+          "id": 2,
+          "date": "02/03/2023",
+          "teacher": "Carie Annott",
+          "comment": "Underdosing of ganglionic blocking drugs, initial encounter"
+        },
+        {
+          "id": 3,
+          "date": "01/09/2023",
+          "teacher": "Grenville Prahl",
+          "comment": "Injury of intrinsic msl/tnd at ankle and foot level"
+        },
+        {
+          "id": 4,
+          "date": "27/07/2023",
+          "teacher": "Dorisa Busfield",
+          "comment": "Tuberculosis of skin and subcutaneous tissue"
+        },
+        {
+          "id": 5,
+          "date": "03/06/2023",
+          "teacher": "Teddie Poultney",
+          "comment": "Unsp disorder of synovium and tendon, unspecified hand"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "day_of_week": "Thursday",
+      "capacity": 50,
+      "duration": 30,
+      "price": 10.5,
+      "type_of_class": "Flow Yoga",
+      "desc": "Forced landing of glider injuring occupant, init",
+      "classList": [
+        {
+          "id": 1,
+          "date": "01/10/2023",
+          "teacher": "Boyd Denkin",
+          "comment": "Forced landing of private fix-wing arcrft inj occupant, subs"
+        },
+        {
+          "id": 2,
+          "date": "27/10/2023",
+          "teacher": "Garland Bayford",
+          "comment": "Nondisp fx of medial phalanx of right little finger, init"
+        },
+        {
+          "id": 3,
+          "date": "02/08/2023",
+          "teacher": "Leticia Bernli",
+          "comment": "Fracture of unsp phalanx of left index finger, sequela"
+        },
+        {
+          "id": 4,
+          "date": "28/04/2023",
+          "teacher": "Norene Klimentyev",
+          "comment": "Food in respiratory tract, part unspecified"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "day_of_week": "Sunday",
+      "capacity": 30,
+      "duration": 30,
+      "price": 25.5,
+      "type_of_class": "Flow Yoga",
+      "desc": "Burn of third degree of unspecified wrist",
+      "classList": [
+        {
+          "id": 1,
+          "date": "03/02/2023",
+          "teacher": "Dulcea Cawkwell",
+          "comment": "Oth fx upr & low end r fibula, 7thQ"
+        },
+        {
+          "id": 2,
+          "date": "18/01/2023",
+          "teacher": "Abigail Callery",
+          "comment": "Oth fractures of lower end of right radius, init for clos fx"
+        },
+        {
+          "id": 3,
+          "date": "12/08/2023",
+          "teacher": "Wilton Sicha",
+          "comment": "Burn of third degree of right hand, unsp site, init encntr"
+        },
+        {
+          "id": 4,
+          "date": "06/02/2023",
+          "teacher": "Caritta Bartoszewicz",
+          "comment": "Open bite of left ear, initial encounter"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "day_of_week": "Monday",
+      "capacity": 10,
+      "duration": 30,
+      "price": 25.5,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Subluxation of unsp interphaln joint of left thumb, init",
+      "classList": [
+        {
+          "id": 1,
+          "date": "20/04/2023",
+          "teacher": "Stanislaus Gillibrand",
+          "comment": "Poisoning by, adverse effect of and underdosing of laxatives"
+        },
+        {
+          "id": 2,
+          "date": "30/10/2023",
+          "teacher": "Aland Hesser",
+          "comment": "Pedl cyc pasngr injured in clsn w rail trn/veh in traf, subs"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "day_of_week": "Thursday",
+      "capacity": 50,
+      "duration": 60,
+      "price": 25.5,
+      "type_of_class": "Family Yoga",
+      "desc": "Acquired clubhand, right hand",
+      "classList": [
+        {
+          "id": 1,
+          "date": "09/12/2022",
+          "teacher": "Demeter Rubes",
+          "comment": "Accidental pnctr & lac of the ear/mastd during oth procedure"
+        },
+        {
+          "id": 2,
+          "date": "20/11/2023",
+          "teacher": "Annabell De Blase",
+          "comment": "Unsp traum nondisp spondylolysis of 2nd cervcal vert, sqla"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "day_of_week": "Thursday",
+      "capacity": 10,
+      "duration": 60,
+      "price": 10.5,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Oth physl fx upper end unsp fibula, subs for fx w routn heal",
+      "classList": [
+        {
+          "id": 1,
+          "date": "22/05/2023",
+          "teacher": "Bernadine Growcott",
+          "comment": "Disp fx of navicular of left foot, init for clos fx"
+        },
+        {
+          "id": 2,
+          "date": "07/09/2023",
+          "teacher": "Craig Fronek",
+          "comment": "Pre-excitation syndrome"
+        },
+        {
+          "id": 3,
+          "date": "09/11/2023",
+          "teacher": "Thurstan Standrin",
+          "comment": "Laceration of plantar artery of right foot, init encntr"
+        },
+        {
+          "id": 4,
+          "date": "20/08/2023",
+          "teacher": "Candide Cheshire",
+          "comment": "Wide cranial sutures of newborn"
+        },
+        {
+          "id": 5,
+          "date": "09/06/2023",
+          "teacher": "Carlie Lindman",
+          "comment": "Patient's noncompliance with renal dialysis"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "day_of_week": "Sunday",
+      "capacity": 20,
+      "duration": 60,
+      "price": 20,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Corrosion of first degree of buttock, initial encounter",
+      "classList": [
+        {
+          "id": 1,
+          "date": "12/05/2023",
+          "teacher": "Consuela Godball",
+          "comment": "Corrosion of cornea and conjunctival sac, right eye, init"
+        },
+        {
+          "id": 2,
+          "date": "19/04/2023",
+          "teacher": "Dennie Ferrettini",
+          "comment": "Nondisp transverse fx shaft of unsp rad, 7thK"
+        },
+        {
+          "id": 3,
+          "date": "23/09/2023",
+          "teacher": "Monro Kiltie",
+          "comment": "I/I react d/t indwelling ureteral stent, initial encounter"
+        },
+        {
+          "id": 4,
+          "date": "10/10/2023",
+          "teacher": "Lonee Markey",
+          "comment": "Poisoning by tetracyclines, assault, subsequent encounter"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "day_of_week": "Monday",
+      "capacity": 50,
+      "duration": 60,
+      "price": 25.5,
+      "type_of_class": "Family Yoga",
+      "desc": "Enteropathogenic Escherichia coli infection",
+      "classList": [
+        {
+          "id": 1,
+          "date": "25/07/2023",
+          "teacher": "Adelaide Lacky",
+          "comment": "Activity, hand held interactive electronic device"
+        },
+        {
+          "id": 2,
+          "date": "02/08/2023",
+          "teacher": "Margeaux Lambol",
+          "comment": "Nondisp seg fx shaft of l femr, 7thE"
+        },
+        {
+          "id": 3,
+          "date": "09/05/2023",
+          "teacher": "Lyndsay Shearstone",
+          "comment": "Burn of second degree of unspecified knee, initial encounter"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "day_of_week": "Saturday",
+      "capacity": 50,
+      "duration": 60,
+      "price": 13.5,
+      "type_of_class": "Family Yoga",
+      "desc": "Other infective bursitis, hip",
+      "classList": [
+        {
+          "id": 1,
+          "date": "20/02/2023",
+          "teacher": "Kippy Camings",
+          "comment": "Retinopathy of prematurity, stage 2, left eye"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "day_of_week": "Thursday",
+      "capacity": 50,
+      "duration": 30,
+      "price": 10.5,
+      "type_of_class": "Family Yoga",
+      "desc": "Poisn by centr-acting/adren-neurn-block agnt, undet, init",
+      "classList": [
+        {
+          "id": 1,
+          "date": "07/02/2023",
+          "teacher": "Haley Houlison",
+          "comment": "Postproc hemorrhage of an endo sys org following a procedure"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "day_of_week": "Tuesday",
+      "capacity": 10,
+      "duration": 60,
+      "price": 12.5,
+      "type_of_class": "Aerial Yoga",
+      "desc": "Sltr-haris Type III physl fx upper end humer, unsp arm, 7thD",
+      "classList": [
+        {
+          "id": 1,
+          "date": "12/12/2022",
+          "teacher": "Tiena Dunsford",
+          "comment": "Partial traumatic amputation at left hip joint, init encntr"
+        },
+        {
+          "id": 2,
+          "date": "13/04/2023",
+          "teacher": "Harold Evitt",
+          "comment": "External constriction, left foot, initial encounter"
+        }
+      ]
+    }
+  ]
+}
